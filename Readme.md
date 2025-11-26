@@ -1,4 +1,3 @@
-markdown
 # TaskTracker — Console and Graphical Task Manager
 
 ## Description
